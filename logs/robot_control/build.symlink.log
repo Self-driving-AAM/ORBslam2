@@ -1,0 +1,4 @@
+Symlinking /home/fayo98/aamfsd_orb2_v3_ws/devel/lib/pkgconfig/robot_control.pc
+Symlinking /home/fayo98/aamfsd_orb2_v3_ws/devel/lib/robot_control/robot_control_node
+Symlinking /home/fayo98/aamfsd_orb2_v3_ws/devel/share/robot_control/cmake/robot_controlConfig.cmake
+Symlinking /home/fayo98/aamfsd_orb2_v3_ws/devel/share/robot_control/cmake/robot_controlConfig-version.cmake

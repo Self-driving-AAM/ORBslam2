@@ -1,0 +1,6 @@
+devel_space: /home/fayo98/aamfsd_orb2_v3_ws/devel
+install: false
+install_space: /home/fayo98/aamfsd_orb2_v3_ws/install
+profile: default
+source_space: /home/fayo98/aamfsd_orb2_v3_ws/src
+workspace: /home/fayo98/aamfsd_orb2_v3_ws

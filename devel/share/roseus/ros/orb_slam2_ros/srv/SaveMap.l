@@ -1,0 +1,1 @@
+/home/fayo98/aamfsd_orb2_v3_ws/devel/.private/orb_slam2_ros/share/roseus/ros/orb_slam2_ros/srv/SaveMap.l
